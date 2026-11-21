@@ -1,0 +1,6 @@
+# ninja log v6
+15	273	8169996908630835	CMakeFiles/h5.dir/ClassB.cpp.obj	25159e274134f8d9
+22	276	8169996908700841	CMakeFiles/h5.dir/ClassA2.cpp.obj	e692db61e38a9c54
+19	276	8169996908670837	CMakeFiles/h5.dir/ClassA1.cpp.obj	da3c4ef4d559ae5e
+3	331	8169996908503133	CMakeFiles/h5.dir/main.cpp.obj	d62c12f8409ce646
+331	453	8169996911781668	h5.exe	9f4b7a25560603b3
